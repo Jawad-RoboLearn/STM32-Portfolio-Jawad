@@ -1,5 +1,5 @@
-# stm32f4-embedded
-The drivers of STM32F4 for everyone. It includes UART (Tx, Rx), ADC, Timers, Interrupts, DMA, I2C, and SPI. Stay tuned
+# STM32 Driver Development Portfolio
+This is my portfolio of STM32 driver development (Bare Metal)
 
 # UART_TX_RX drivers 
 In src folder, there is a code file uart.c which includes the Tx-Rx port configuration, UART TX-RX configuration, receive function, transmit function. 
